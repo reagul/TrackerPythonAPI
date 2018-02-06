@@ -6,7 +6,7 @@ import requests
 
 app = Flask(__name__)
 
-TOKEN = '3f8f2d63167a1718ea6e3c7036842e65'
+TOKEN = '3f8f2d63167a1718ea6e3c7036842e65!!!!!'
 port = int(os.getenv("PORT"))
 
 @app.route('/author')
